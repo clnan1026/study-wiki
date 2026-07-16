@@ -1,0 +1,18 @@
+{
+  "name": "study-wiki",
+  "version": "1.0.0",
+  "description": "친구와 함께하는 공부 위키 (선형대수학, 딥러닝, 논문 평가 지표)",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "markdown-it-mathjax3": "^4.3.2",
+    "vitepress": "^1.2.0",
+    "vue": "^3.4.0"
+  }
+}
